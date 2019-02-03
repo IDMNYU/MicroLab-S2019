@@ -1,4 +1,4 @@
-**DM-GY 9103 D - K SPECIAL TOPICS IN DIGITAL MEDIA:Micro-Environment Exploration Lab**
+**DM-GY 9103 D - K SPECIAL TOPICS IN DIGITAL MEDIA: Micro-Environment Exploration Lab**
 
 
 
@@ -26,7 +26,7 @@ Metagenomics is the field of research which investigates the microbial component
 
 In this class we will cover a basic understanding of the state of current research in environmental microbiomes. Students will get hands-on experience in which they will learn the computational methods to analyze genomic data. We will design physical devices to interact with this invisible component of our environment, either in form of sampling instruments, bioreactors or bio receptive substrates that propose new symbiotic relationships with the microbial environment.
 
-Students will work in groups, and one group will have the opportunity to present their work at the [Biodesign Challenge](http://biodesignchallenge.org/) in June 2018.
+Students will work in groups, and one group will have the opportunity to present their work at the [Biodesign Challenge](http://biodesignchallenge.org/) in June 2019.
 
 
 **By the completion of this course, students will be able to:**

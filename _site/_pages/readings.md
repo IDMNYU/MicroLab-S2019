@@ -1,4 +1,22 @@
-**Required Readings:**
+___
+## Required Readings:
+
+
+### Week 2
+
+In preparation for the guest lecture by Susannah Drake, read up about these two of her projects:   
+[Bight Coastal Urbanism](https://dlandstudio.com/Bight-Coastal-Urbanism)  
+[Gowanus Canal Sponge Park](https://dlandstudio.com/Gowanus-Canal-Sponge-Park-Pilot)  
+
+and background information about the Gowanus Canal SuperFund site:  
+[Cleanup Pilot Project at Gowanus Canal](https://www.epa.gov/newsreleases/pilot-project-advances-epas-cleanup-gowanus-canal-superfund-site-brooklyn-ny)  
+[A Community Guide to EPA’s Superfund Program](https://semspub.epa.gov/work/HQ/175197.pdf)  
+[Feasibility Study Gowanus Canal](https://semspub.epa.gov/work/02/122525.pdf)  
+ 
+ ___
+
+## Suggested Readings
+
 
 New Yorker - [Rewriting the Code of Life by Michael Specter](https://www.newyorker.com/magazine/2017/01/02/rewriting-the-code-of-life)
 
@@ -12,7 +30,7 @@ Edward Tufte "Visual and Statistical Thinking" pgs 1-15 \(in our shared Drive fo
 
 
 
-**Suggested Readings:**
+
 
 Robin Sloan - [Sourdough](https://www.robinsloan.com/books/sourdough/)
 
