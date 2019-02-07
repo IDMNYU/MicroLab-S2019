@@ -1,8 +1,9 @@
 ___
-## Required Readings:
+## Assignments:
 
+Readings, if not linked here, can be found in our shared [Course Materials](https://drive.google.com/drive/folders/1UoE4GEZ-vz3ctey6CQVnCYYRHCdVreiI?usp=sharing) folder 
 
-### Week 2
+### Due Week 2
 
 In preparation for the guest lecture by Susannah Drake, read up about these two of her projects:   
 [Bight Coastal Urbanism](https://dlandstudio.com/Bight-Coastal-Urbanism)  
@@ -13,7 +14,18 @@ and background information about the Gowanus Canal SuperFund site:
 [A Community Guide to EPA’s Superfund Program](https://semspub.epa.gov/work/HQ/175197.pdf)  
 [Feasibility Study Gowanus Canal](https://semspub.epa.gov/work/02/122525.pdf)  
  
- ___
+
+## Due Week 3
+
+- using the swabs and sample tubes provided in class, take samples from 3 different locations and visualize them with your lab partner using the microscope we assembled in class.   
+    + deliverable 1: turn in a "photo reel" of 24 images for each sample, varying the location on the slide, the lighting intensity and direction. Highlight your 3 favorites as Edit1.jpg, Edit2.jpg, Edit3.jpg  
+    + deliverable 2: write up a lab report describing the experiment, including location, type of sample, methods used, and your interpretation of what you have imaged.  
+
+- reading: Introduction to Ian Cheng's book Emissaries Guide to Worlding (in our shared Drive folder)  
+- go see [Ian Cheng's exhibit BOB at Gladstone Gallery](https://gladstonegallery.com/exhibition/16819#&panel1-1)  
+- deliverable 3: select one or more images from each of the sites you sampled and, based on these images, write a short "worlding" story about each site. Each story should be at least 250 words long. 
+
+___
 
 ## Suggested Readings
 
