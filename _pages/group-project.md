@@ -6,13 +6,26 @@ ___
 
 Number of Students: 3-4 per group
 
-Group Project Deliverables:
+### Group Project Deliverables:
 
-* An iterated prototype of an object, app or other interface that defines a novel interaction with the environmental microbiome
+* An iterated prototype of an object, app or other interface that defines a novel interaction with the environmental microbiome. 
 
-* A website documenting the process of creation of aforementioned project
+* A website documenting the process of creation of aforementioned project (see below for details)
 
-* A short video pitching the aforementioned project.
+* A short video pitching the aforementioned project (2-3 minutes)
+
+
+### The website should contain: 
+
+LANDING PAGE: this page should include the title, a 2-3 sentence description, 1-3 images, and a 2-3 minute video. 
+
+TABS/SCROLL DOWN TO:
+- introduction and background research: a summary of the scientific articles you have reviewed for your background research (2-5 pages). This is similar to the work you did for your individual research papers. The background section leads to an open question in the field, or an unmet need. This could be a present-day need, or one that you speculate to be relevant in a near future. End it by a statement that places your project in the context of what you have just described. 
+- project description and rationale: summarize here your project - is it a game, an installation, a wearable, an instrument? How does it work and who uses it? Describe how the overall design of this project addresses the open question you arrived to in your Background section. You can use the [DARPA Heilmeier classification](https://www.darpa.mil/work-with-us/heilmeier-catechism) as guidance for this section. 
+- process: document your research process here. Photos/videos/screenshots/transcripts of conversations and interviews are all helpful to describe your process. 
+- discussion: discuss the themes of Values, Feasibility, Compatibility, Human Impact, Sustainability and Risk as described in the [Biodesign Challenge Rules](https://biodesignchallenge.org/rules). You should write at least a 200 word paragraph for each topic that discusses your project in relationship to the given theme. The quality of the discussion (identifying the risks/shortcomings of the design) is more important than claiming that there are none. 
+- team: headshots (if you want) and brief bios of each team member, with links to personal sites/portfolios. 
+
 
 
 
